@@ -1,6 +1,6 @@
 function        | synopsis       |                                  description
 ----------------|---------------------------------------------|--------------------
-[ft_bzero.c ](https://github.com/rvsrudik/libft/blob/master/ft_bzero.c)     | void  ft_bzero(void *s, size_t n)           | The bzero() function writes n zeroed bytes to the string s.  If n is zero, bzero() does nothing.
+[ft_bzero.c ]   | void  ft_bzero(void *s, size_t n)           | The bzero() function writes n zeroed bytes to the string s.  If n is zero, bzero() does nothing.
 ft_memcpy.c     | 
 ft_memccpy.c    | 
 ft_memmove.c    | 
@@ -31,3 +31,7 @@ ft_tolower.     |
 
 
 
+
+
+
+[ft_bzero.c]:https://github.com/rvsrudik/libft/blob/master/ft_bzero.c
