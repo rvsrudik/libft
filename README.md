@@ -1,6 +1,6 @@
-function        | synopsis       |       description
-----------------|----------------|--------------------
-ft_bzero.c      | Пустой файл каскадной таблицы стилей, в который производится сбока необходимых стилей 
+function        | synopsis       |                                  description
+----------------|---------------------------------------------|--------------------
+ft_bzero.c      | void  ft_bzero(void *s, size_t n)           | The bzero() function writes n zeroed bytes to the string s.  If n is zero, bzero() does nothing.
 ft_memcpy.c     | Reset CSS от Эрика Мейера 
 ft_memccpy.c    | Нормалайзер CSS от Nicolas Gallagher 
 ft_memmove.c    | Основные стили блоков системы 
