@@ -20,13 +20,13 @@ function          | synopsis       |                                  descriptio
 [ft_strnstr.c]    | char    *ft_strnstr(const char *str, const char *to_f, size_t len)
 [ft_strcmp.c]     | int      ft_strcmp(const char *s1, const char *s2)
 [ft_strncmp.c]    | int     ft_strncmp(const char *s1, const char *s2, size_t n)
-[ft_atoi.c]       | int     ft_isalpha(int c)
-[ft_isalpha.c]    |int      ft_isdigit(int c)
-[ft_isdigit.c]    | int ft_isalnum(int c)
-[ft_isalnum.c]    | int     ft_isascii(int c)
-[ft_isascii.c]    | int     ft_isprint(int c)
-[ft_isprint.c]    | int     ft_toupper(int c)
-[ft_toupper.c]    | 
+[ft_atoi.c]       | 
+[ft_isalpha.c]    | int     ft_isalpha(int c)
+[ft_isdigit.c]    | int      ft_isdigit(int c)
+[ft_isalnum.c]    | int ft_isalnum(int c)
+[ft_isascii.c]    | int     ft_isascii(int c)
+[ft_isprint.c]    | int     ft_isprint(int c)
+[ft_toupper.c]    | int     ft_toupper(int c)
 [ft_tolower.c]     | int     ft_tolower(int c)
 
 
@@ -61,6 +61,6 @@ function          | synopsis       |                                  descriptio
 [ft_isascii.c]:https://github.com/rvsrudik/libft/blob/master/ft_isascii.c
 [ft_isprint.c]:https://github.com/rvsrudik/libft/blob/master/ft_isprint.c
 [ft_toupper.c]:https://github.com/rvsrudik/libft/blob/master/ft_toupper.c
-[ft_tolower.]:https://github.com/rvsrudik/libft/blob/master/ft_tolower.c
+[ft_tolower.c]:https://github.com/rvsrudik/libft/blob/master/ft_tolower.c
 
 
