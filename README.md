@@ -20,7 +20,7 @@ function          | synopsis       |                                  descriptio
 [ft_strnstr.c]    | char    *ft_strnstr(const char *str, const char *to_f, size_t len)
 [ft_strcmp.c]     | int      ft_strcmp(const char *s1, const char *s2)
 [ft_strncmp.c]    | int     ft_strncmp(const char *s1, const char *s2, size_t n)
-[ft_atoi.c]       | 
+[ft_atoi.c]       | int     ft_atoi(const char *str)
 [ft_isalpha.c]    | int     ft_isalpha(int c)
 [ft_isdigit.c]    | int      ft_isdigit(int c)
 [ft_isalnum.c]    | int ft_isalnum(int c)
