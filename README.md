@@ -35,3 +35,33 @@ function          | synopsis       |                                  descriptio
 
 
 [ft_bzero.c]:https://github.com/rvsrudik/libft/blob/master/ft_bzero.c
+[ft_bzero.c ]:https://github.com/rvsrudik/libft/blob/master/ft_memcpy.c
+[ft_memcpy.c]:https://github.com/rvsrudik/libft/blob/master/ft_memccpy.c
+[ft_memccpy.c]:https://github.com/rvsrudik/libft/blob/master/ft_memmove.c
+[ft_memmove.c]:https://github.com/rvsrudik/libft/blob/master/ft_memchr.c
+[ft_memchr.c]:https://github.com/rvsrudik/libft/blob/master/ft_memcmp.c
+[ft_memcmp.c]:https://github.com/rvsrudik/libft/blob/master/ft_memset.c
+[ft_memset.c]:https://github.com/rvsrudik/libft/blob/master/ft_strlen.c
+[ft_strlen.c]:https://github.com/rvsrudik/libft/blob/master/ft_strdup.c
+[ft_strdup.c]:https://github.com/rvsrudik/libft/blob/master/ft_strcpy.c
+[ft_strcpy.c]:https://github.com/rvsrudik/libft/blob/master/ft_strncpy.c
+[ft_strncpy.c]:https://github.com/rvsrudik/libft/blob/master/ft_strcat.c
+[ft_strcat.c]:https://github.com/rvsrudik/libft/blob/master/ft_strncat.c
+[ft_strncat.c]:https://github.com/rvsrudik/libft/blob/master/ft_strlcat.c
+[ft_strlcat.c]:https://github.com/rvsrudik/libft/blob/master/ft_strchr.c
+[ft_strchr.c]:https://github.com/rvsrudik/libft/blob/master/ft_strrchr.c
+[ft_strrchr.c]:https://github.com/rvsrudik/libft/blob/master/ft_strstr.c
+[ft_strstr.c]:https://github.com/rvsrudik/libft/blob/master/ft_strnstr.c
+[ft_strnstr.c]:https://github.com/rvsrudik/libft/blob/master/ft_strcmp.c
+[ft_strcmp.c]:https://github.com/rvsrudik/libft/blob/master/ft_strncmp.c
+[ft_strncmp.c]:https://github.com/rvsrudik/libft/blob/master/ft_atoi.c
+[ft_atoi.c]:https://github.com/rvsrudik/libft/blob/master/ft_isalpha.c
+[ft_isalpha.c]:https://github.com/rvsrudik/libft/blob/master/ft_isdigit.c
+[ft_isdigit.c]:https://github.com/rvsrudik/libft/blob/master/ft_isalnum.c
+[ft_isalnum.c]:https://github.com/rvsrudik/libft/blob/master/ft_isascii.c
+[ft_isascii.c]:https://github.com/rvsrudik/libft/blob/master/ft_isprint.c
+[ft_isprint.c]:https://github.com/rvsrudik/libft/blob/master/ft_toupper.c
+[ft_toupper.c]:https://github.com/rvsrudik/libft/blob/master/ft_tolower.
+[ft_tolower.]:https://github.com/rvsrudik/libft/blob/master/[ft_strcmp.c
+
+
