@@ -1,5 +1,5 @@
-function        | synopsis       |description
-----------------|----------------------
+function        | synopsis       |       description
+----------------|----------------|--------------------
 ft_bzero.c      | Пустой файл каскадной таблицы стилей, в который производится сбока необходимых стилей 
 ft_memcpy.c     | Reset CSS от Эрика Мейера 
 ft_memccpy.c    | Нормалайзер CSS от Nicolas Gallagher 
