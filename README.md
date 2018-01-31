@@ -1,4 +1,6 @@
 function          | synopsis       |                                  description
+
+
 ------------------|---------------------------------------------|--------------------
 [ft_bzero.c ]     | void  ft_bzero(void *s, size_t n)           
 
