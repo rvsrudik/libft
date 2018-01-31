@@ -1,11 +1,7 @@
 function          | synopsis       |                                  return value
 ------------------|---------------------------------------------|--------------------
-
-
-
-
 [ft_bzero.c ]     | void  ft_bzero(void *s, size_t n)           | - 
-------------------|---------------------------------------------|--------------------
+
 
  > The bzero() function writes n zeroed bytes to the string s.  If n is zero, bzero() does nothing. 
 
