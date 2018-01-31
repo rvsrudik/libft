@@ -1,8 +1,7 @@
 function          | synopsis       |                                  description
 ------------------|---------------------------------------------|--------------------
 [ft_bzero.c ]     | void  ft_bzero(void *s, size_t n)           | The bzero() function writes n zeroed bytes to the string s.  If n is zero, bzero() does nothing.
-[ft_memcpy.c]     | void    *ft_memcpy(void *dst, void const *src, size_t n) |  The memcpy() function copies n bytes from memory area src to memory area dst.  If dst and src
-     overlap, behavior is undefined.  Applications in which dst and src might overlap should use
+[ft_memcpy.c]     | void    *ft_memcpy(void *dst, void const *src, size_t n) |  The memcpy() function copies n bytes from memory area src to memory area dst.  If dst and src overlap, behavior is undefined.  Applications in which dst and src might overlap should use
      memmove(3) instead.
 [ft_memccpy.c]    | void    *ft_memccpy(void *dst, const void *src, int c, size_t n)     |    The memccpy() function copies bytes from string src to string dst.  If the character c (as
      converted to an unsigned char) occurs in the string src, the copy stops and a pointer to the
