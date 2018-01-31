@@ -29,7 +29,6 @@ function          | synopsis       |                                  return val
 
 ```html
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<div width="200" height="200" style="background:red">dd</div>
 ```
 
 >  The memchr() function locates the first occurrence of c (converted to an unsigned char) in string s.
